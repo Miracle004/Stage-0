@@ -4,7 +4,13 @@
 **Description**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This is a simple profile card page giving insight about me along with links to my socials.
+• This is a simple profile card page giving insight about me along with links to my socials.
+
+It has 3 pages
+
+• Home page
+• About page
+• Contact Page
 
 
 Tech Stack
@@ -13,3 +19,4 @@ Tech Stack
 • HTML
 • CSS
 • Vanilla Javascript
+
